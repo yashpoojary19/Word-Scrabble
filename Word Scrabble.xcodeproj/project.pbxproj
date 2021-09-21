@@ -13,6 +13,7 @@
 		B6964E8B26F9DC2F0007B221 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B6964E8A26F9DC2F0007B221 /* Preview Assets.xcassets */; };
 		B6964E9626F9DC2F0007B221 /* Word_ScrabbleTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B6964E9526F9DC2F0007B221 /* Word_ScrabbleTests.swift */; };
 		B6964EA126F9DC2F0007B221 /* Word_ScrabbleUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B6964EA026F9DC2F0007B221 /* Word_ScrabbleUITests.swift */; };
+		B6964EAF26F9EFA90007B221 /* start.txt in Resources */ = {isa = PBXBuildFile; fileRef = B6964EAE26F9EFA90007B221 /* start.txt */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -45,6 +46,7 @@
 		B6964E9C26F9DC2F0007B221 /* Word ScrabbleUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Word ScrabbleUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		B6964EA026F9DC2F0007B221 /* Word_ScrabbleUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Word_ScrabbleUITests.swift; sourceTree = "<group>"; };
 		B6964EA226F9DC2F0007B221 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B6964EAE26F9EFA90007B221 /* start.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = start.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 				B6964E8526F9DC2D0007B221 /* ContentView.swift */,
 				B6964E8726F9DC2F0007B221 /* Assets.xcassets */,
 				B6964E8C26F9DC2F0007B221 /* Info.plist */,
+				B6964EAE26F9EFA90007B221 /* start.txt */,
 				B6964E8926F9DC2F0007B221 /* Preview Content */,
 			);
 			path = "Word Scrabble";
@@ -234,6 +237,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				B6964E8B26F9DC2F0007B221 /* Preview Assets.xcassets in Resources */,
+				B6964EAF26F9EFA90007B221 /* start.txt in Resources */,
 				B6964E8826F9DC2F0007B221 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
